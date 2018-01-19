@@ -1,8 +1,11 @@
 package com.example.practice;
 
-public class Main {
+public class Main
+{
 
-    public static void main(String[] args) {
-	// write your code here
+    public static void main(String[] args)
+    {
+	// output welcome message
+        System.out.println("Welcome");
     }
 }
